@@ -1,0 +1,9 @@
+__________Airstar Airlines__________
+__________Ticket__________
+__________________________
+Customer ID:1
+Customer Namemoon
+Customer Genderfemale
+	Description
+Destination		Canada
+Flight cost :		29000
